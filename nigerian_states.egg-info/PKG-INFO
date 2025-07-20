@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: nigerian-states
+Version: 0.1.0
+Summary: A Python package for Nigerian states and LGAs.
+Home-page: https://github.com/doubi3/nigerian-states
+Author: Mark Ekperi
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary

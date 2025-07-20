@@ -2,8 +2,12 @@
 
 A Python package for accessing Nigerian states and their respective Local Government Areas (LGAs).
 
-## Usage
+## Features
+- List all Nigerian states
+- Get LGAs for a given state (case-insensitive)
+- Search LGAs by name (case-insensitive)
 
+## Usage
 ```python
 from nigerian_states.states.core import NigerianStates
 
@@ -14,10 +18,8 @@ print(ng.search_lga('Ikeja'))  # Search for LGAs containing 'Ikeja'
 ```
 
 ## Installation
-
 Clone the repo and install with pip:
-
-```
+```bash
 pip install .
 ```
 

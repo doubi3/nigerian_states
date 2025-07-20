@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+nigerian_states.egg-info/PKG-INFO
+nigerian_states.egg-info/SOURCES.txt
+nigerian_states.egg-info/dependency_links.txt
+nigerian_states.egg-info/top_level.txt
+states/__init__.py
+states/core.py
+states/utils.py
+states/data/states_lgas.json
+tests/test_core.py
