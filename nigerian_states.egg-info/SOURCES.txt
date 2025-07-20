@@ -1,11 +1,16 @@
+LICENSE
 MANIFEST.in
 README.md
 pyproject.toml
 setup.py
+nigerian_states/__init__.py
 nigerian_states.egg-info/PKG-INFO
 nigerian_states.egg-info/SOURCES.txt
 nigerian_states.egg-info/dependency_links.txt
 nigerian_states.egg-info/top_level.txt
+nigerian_states/states/__init__.py
+nigerian_states/states/core.py
+nigerian_states/states/data/states_lgas.json
 states/__init__.py
 states/core.py
 states/utils.py
