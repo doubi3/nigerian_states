@@ -58,6 +58,16 @@ print(search_results)
 
 Contributions, bug reports, and feature requests are welcome! Please open an issue or submit a pull request on GitHub.
 
+## Releasing
+
+To publish a new version, update the version in `setup.py`, push the change, and create a published GitHub Release. The publish workflow will build the package and upload it to PyPI using trusted publishing.
+
+Applications do not update automatically. Users must upgrade with:
+
+```bash
+pip install --upgrade nigerian-states
+```
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
