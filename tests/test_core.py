@@ -1,9 +1,9 @@
 import unittest
-from states.core import NigeriaGeo
+from nigerian_states.states.core import NigerianStates
 
 class TestNigeriaGeo(unittest.TestCase):
     def setUp(self):
-        self.geo = NigeriaGeo()
+        self.geo = NigerianStates()
 
     def test_get_states(self):
         states = self.geo.get_states()
