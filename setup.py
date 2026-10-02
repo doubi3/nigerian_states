@@ -5,7 +5,7 @@ long_description = (Path(__file__).parent / "README.md").read_text(encoding="utf
 
 setup(
     name="nigerian-states",
-    version="0.1.1",
+    version="0.1.2",
     packages=find_packages(exclude=["states", "states.*", "tests", "tests.*"]),
     package_data={"nigerian_states.states": ["data/states_lgas.json"]},
     include_package_data=True,
