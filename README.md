@@ -6,6 +6,7 @@ A Python package for accessing Nigerian states and their respective Local Govern
 - List all Nigerian states
 - Get LGAs for a given state (case-insensitive)
 - Search LGAs by name (case-insensitive)
+- Includes 774 second-level administrative areas across the 36 states and FCT
 
 ## Installation
 
